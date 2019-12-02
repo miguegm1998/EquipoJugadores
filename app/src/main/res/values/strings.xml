@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EquipoJugadores</string>
+    <string name="addEquipo">Añadir Equipo</string>
+    <string name="err_selected">No puede haber ningun campo vacio</string>
+</resources>
